@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 plugins:
   resolvers:
     - https://palantir.bintray.com/releases/{{GroupPath}}/{{Product}}/{{Version}}/{{Product}}-{{Version}}-{{OS}}-{{Arch}}.tgz

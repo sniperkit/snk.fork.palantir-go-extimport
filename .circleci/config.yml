@@ -1,5 +1,8 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 working_dir: &working_dir
-  working_directory: /go/src/github.com/palantir/go-extimport
+  working_directory: /go/src/github.com/sniperkit/snk.fork.palantir-go-extimport
 
 go-version: &go-version
   run: go version
